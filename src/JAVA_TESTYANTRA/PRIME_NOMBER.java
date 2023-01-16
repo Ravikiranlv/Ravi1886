@@ -25,5 +25,4 @@ public class PRIME_NOMBER {
 			}
 		}
 	}
-	
 }
