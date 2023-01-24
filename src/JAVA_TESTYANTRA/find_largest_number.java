@@ -18,19 +18,22 @@ public class find_largest_number {
 		int c = sc.nextInt();
 		int largest = a;
 		int smallest = a;
-		if (largest > b) {
+		if (b>largest ) {
 			largest = b;
 		}
-		if (largest > c) {
+		if (c>largest ) {
 			largest = c;
 		}
-		if (smallest < b) {
+		if (b<smallest) {
 			smallest = b;
 		}
-		if (smallest > c) {
+		if (c<smallest) {
 			smallest = c;
 		}
-		int firstlargest = (a + b + c) - (smallest + largest);
-		System.out.println(firstlargest);
+		int Secondlargest = (a + b + c) - (smallest + largest);
+		int small=a+b+c;
+		System.out.println(largest);
+		System.out.println(Secondlargest);
+		System.out.println(smallest);
 	}
 }
