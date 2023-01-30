@@ -1,3 +1,11 @@
+
+
+/*
+    O/P:-Enter the Number : 
+	242
+	It is not a Armstrong Number : 242
+*/
+
 package java_program_in_softcopy_Nots;
 
 import java.util.Scanner;

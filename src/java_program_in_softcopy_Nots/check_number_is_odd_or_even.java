@@ -9,7 +9,7 @@ public class check_number_is_odd_or_even {
 		int a = sc.nextInt();
 		if (a % 2 == 0) {
 			System.out.println("It is a even number : " + a);
-		} else {
+		} else if(a%2==1){
 			System.out.println("It is a odd number : " + a);
 		}
 	}
