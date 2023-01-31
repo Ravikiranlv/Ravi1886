@@ -23,6 +23,7 @@ public class Missing_number_in_an_N_NaturalNumber {
 		for (int i = 0; i < n.length; i++) {
 			set.remove(n[i]);
 		}
+		System.out.println("The missing Number is : ");
 		for (int j : set) {
 			System.out.print(j + " ");
 		}
