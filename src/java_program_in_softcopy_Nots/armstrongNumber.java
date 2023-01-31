@@ -1,6 +1,7 @@
+// 8. To check whether given number is a Armstrong no or not
 
+/*o/p:-
 
-/*
     O/P:-Enter the Number : 
 	242
 	It is not a Armstrong Number : 242
@@ -20,7 +21,7 @@ public class armstrongNumber {
 		while (a != 0) {
 			int rem = a % 10;
 			sum = sum + (rem * rem * rem);
-			a = a / 10;
+			a = a / 10;	
 		}
 		if (sum == copy) {
 			System.out.println("It is  a Armstrong Number : " + copy);
