@@ -44,7 +44,6 @@ public class Sortan_Array_in_an_AssendingOrder {
 					arr[j] = temp;
 				}
 			}
-
 		}
 		System.out.println("The Sorted of an array is : ");
 		for (int i = 0; i < arr.length; i++) {

@@ -13,9 +13,9 @@ ravi
 package java_program_in_softcopy_Nots;
 
 import java.util.Scanner;
-
+                                     
 /**
- * 
+ *  
  * @author ravik
  *
  */

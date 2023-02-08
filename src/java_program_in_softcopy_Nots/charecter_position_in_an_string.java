@@ -33,5 +33,7 @@ public class charecter_position_in_an_string {
 			char b = n.charAt(i);
 			System.out.println("charecter " + i + " " + "Position " + b);
 		}
+		
+		
 	}
 }
