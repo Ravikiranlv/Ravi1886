@@ -27,7 +27,6 @@ public class convert_decimalNumber_to_Binary_Number {
 
 			arr[i++] = a % 2;
 			a = a / 2;
-
 		}
 		System.out.println("Binary Number is : ");
 		for (int j = i - 1; j > 0; j--) {
