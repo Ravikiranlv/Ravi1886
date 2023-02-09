@@ -24,7 +24,6 @@ public class convert_decimalNumber_to_Binary_Number {
 		int arr[] = new int[20];
 		int i = 1;
 		while (a != 0) {
-
 			arr[i++] = a % 2;
 			a = a / 2;
 		}
