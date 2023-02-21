@@ -4,7 +4,7 @@ public class reverseStringSent {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str = "i am from india";
+		String str = "hi testyantra";
 		String	strArr[] = str.split(" ");
 		String rev="";
 		for(int i=strArr.length-1;i>=0;i--){

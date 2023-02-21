@@ -18,5 +18,4 @@ public class FabonaciiSeries_for_1st_ten_using_whileLoop {
 			i++;
 		}
 	}
-
 }

@@ -9,7 +9,7 @@ public class reverse_String {
 		String o = sc.nextLine();
 		//String s1 = "My name is ram";
 		String[] arr = o.split(" ");
-		for (int i = arr.length - 1; i >= 0; i--) {
+		for (int i = arr.length - 1; i >=0; i--) {
 			System.out.print(arr[i] + " ");
 		}
 	}
