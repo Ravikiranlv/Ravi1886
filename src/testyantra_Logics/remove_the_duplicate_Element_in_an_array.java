@@ -13,7 +13,7 @@ public class remove_the_duplicate_Element_in_an_array {
 		}
 		temp[j++] = arr[no - 1];
 		for (int k = 0; k < j; k++) {
-			System.out.println(temp[k]);
+			System.out.print(temp[k]+" ");
 		}
 	}
 }

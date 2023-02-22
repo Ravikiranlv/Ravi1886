@@ -28,5 +28,4 @@ public class Natural_number {
 		}
 		System.out.println("Sum of Natural Number is : " + sum);
 	}
-
 }

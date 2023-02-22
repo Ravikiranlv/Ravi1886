@@ -4,7 +4,7 @@ import java.security.KeyStore.Entry;
 import java.util.HashMap;
 import java.util.Map;
 
-public class frequence {
+public class Occurance {
 	public static void main(String[] args) {
 		String s1 = "KARNATAKA";
 		char arr[] = s1.toCharArray();

@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class fabbicio_seris {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the string : ");
+		System.out.println("Enter the number : ");
 		int k = sc.nextInt();
 		int f1 = 0;
 		int f2 = 1;
 		int f3;
 		//System.out.println(f1+" "+f2+" ");
-		for(int i=1;i<=10;i++)
+		for(int i=1;i<=k;i++)
 		{
 			f3=f1+f2;
 			System.out.print(f3+" ");

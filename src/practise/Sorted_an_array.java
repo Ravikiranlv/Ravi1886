@@ -26,7 +26,7 @@ public class Sorted_an_array {
 			}
 			}
 		}
-		for(int i=0;i<b.length;i++)
+		for(int i=0;i<b.length;i++) 
 		{
 			System.out.print(b[i]+" ");
 		}
